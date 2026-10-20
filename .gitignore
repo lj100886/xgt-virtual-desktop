@@ -1,0 +1,29 @@
+# build outputs (rebuilt via src/build.bat / src/build_xgt.bat)
+*.exe
+*.dll
+*.pdb
+*.bak
+*.bak_*
+
+# runtime data
+*.log
+xgt.log
+ui.png
+xgt_ui.png
+cap_test.jpg
+install_result.txt
+
+# helper exchange files
+request.txt
+result.txt
+capture.log
+
+# images
+*.jpg
+*.png
+*.zip
+*.nupkg
+
+# dirs
+dumps/
+axpkg/
